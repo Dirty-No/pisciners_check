@@ -5,4 +5,4 @@ then
 	echo "$1 :	[FAIL]" >&2
 else
 	echo "$1 :	[SUCCESS]"
-fi
+fi 
